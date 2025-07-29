@@ -11,4 +11,5 @@ Navigate to the following folder:
 AppData\LocalLow\bokura\Star\localsave
 
 Move the .exe file you just downloaded into this folder (the same folder where localsave.bytes is located).
+
 Run the .exe file. You're all set!
